@@ -1,2 +1,3 @@
-# C-a1a_f3
-First ever programme in C
+# java project
+
+First ever programme in Java
